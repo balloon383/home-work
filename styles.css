@@ -43,7 +43,10 @@ h1{
     font-size: 20px;
     color: black;
 }
+.article-count{
+    padding: 5px;
 
+}
 
 
 .realEstateBox a{
