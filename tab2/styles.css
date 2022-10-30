@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+}
+.mainTable{
+    border: 2px solid;
+    text-align: center;
+}
+.mainTable .tableBody td, td{
+    border: 2px solid;
+    width: 100px;
+    height: 100px;
+}

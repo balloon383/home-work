@@ -1,0 +1,108 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    padding: 10px;
+    text-align: center;
+}
+.generalBox{
+    background-color: #91a39a;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hotNewsBox h2{
+    color: white;
+    background-color: #5B7065;
+    padding: 10px;
+    font-size: 30px;
+    
+}
+.hotNewsBox li{
+    padding: 10px;
+    font-size: 20px;
+
+}
+.hotNewsBox a{
+    color: black;
+}
+
+.hotNewsBox p{
+    color: #5B7065;
+}
+
+.realEstateBox h2{
+    background-color: #04202C;
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+}
+.realEstateBox li{
+    padding: 10px;
+    font-size: 20px;
+    color: black;
+}
+
+
+.realEstateBox a{
+    color: black;
+}
+.realEstateBox p{
+    color: #5B7065;
+}
+
+.menuBox{
+    background-color: black;
+}
+.menuBox li{
+    padding: 2px;
+    color: #cfcfcf;
+}
+
+.menuBox a{
+    color: #cfcfcf;
+}
+
+.table-box{
+    width: 800px;
+    margin: 0px auto;
+    
+
+}
+.music-table{
+    border: 2px solid;
+    margin: 0px auto;
+
+}
+.music-table .my-music{
+    text-align: center;
+    background-color: red;
+}
+.music-table .first-tr{
+    text-align: center;
+    background-color: rgb(255, 0, 179);
+}
+
+.music-table .td-genre{
+    width: 100px;
+    background-color: yellow;
+}
+.music-table .year-td{
+    width: 100px;
+}
+.music-table .third-tr{
+    width: 200px;
+}
+.music-table tr, td{
+    border: 2px solid   ;
+}
+.music-table .other-td{
+    background-color: aquamarine;
+}
+.table-box .move-forward-link{
+    text-align: center;
+    color: red;
+    margin-left: 300px;
+
+}
