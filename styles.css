@@ -163,10 +163,12 @@ li a{
 .music-table .other-td{
     background-color: aquamarine;
 }
+.table-box{
+    margin-top: 30px;
+}
 .table-box .move-forward-link{
     text-align: center;
     color: red;
-    margin-left: 300px;
-
+    margin-top: 15px;
 
 }
