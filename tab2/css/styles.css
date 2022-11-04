@@ -10,4 +10,16 @@ body{
     width: 100px;
     height: 100px;
 }
+td{
+    background-color: green;
+}
+.tableBody .yellow{
+    background-color: yellow; 
+}
+.tableBody .orange{
+    background-color: orange;
+}
+.tableBody .red{
+    background-color: red;
+}
 
