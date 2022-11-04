@@ -69,6 +69,8 @@ body{
 .hotNewsBox li{
     padding: 10px;
     font-size: 20px;
+    list-style: disc;
+    margin-left: 35px;
 
 }
 .hotNewsBox a{
@@ -89,18 +91,21 @@ body{
     padding: 10px;
     font-size: 20px;
     color: black;
+    margin-left: 45px;
 }
 .article-count{
     padding: 5px;
-
 }
-
 
 .realEstateBox a{
     color: black;
 }
 .realEstateBox p{
     color: #5B7065;
+}
+.realEstateBox li{
+    list-style: disc;
+    margin-left: 35px;
 }
 
 .menuBox{
@@ -109,6 +114,9 @@ body{
 .menuBox li{
     padding: 2px;
     color: #cfcfcf;
+    list-style: disc;
+    margin-left: 25px;
+
 }
 
 .menuBox a{
@@ -155,6 +163,6 @@ body{
     text-align: center;
     color: red;
     margin-left: 300px;
-    
+
 
 }
