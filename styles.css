@@ -60,7 +60,7 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-.hotNewsBox h2{
+.hotNewsBox h2, .travelingAbbr{
     color: white;
     background-color: #04202C;
     padding: 10px;
