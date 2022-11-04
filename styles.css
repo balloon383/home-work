@@ -45,6 +45,7 @@ table {
 
 body{
     background-color: rgb(108, 135, 153);
+
 }
 
 .bodyBox h1{
@@ -72,6 +73,9 @@ body{
     list-style: disc;
     margin-left: 35px;
 
+}
+li a{
+    text-decoration: none;
 }
 .hotNewsBox a{
     color: black;
