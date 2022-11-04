@@ -48,11 +48,8 @@ body{
 
 }
 
-.bodyBox h1{
-    padding: 10px;
-    text-align: center;
-    color: #04202C;
-    font-size: 40px
+li a{
+    text-decoration: none;
 }
 .generalBox{
     background-color: #91a39a;
@@ -60,61 +57,52 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-.hotNewsBox h2, .travelingAbbr{
-    color: white;
-    background-color: #04202C;
+
+
+/* body box */
+.bodyBox h1{
     padding: 10px;
-    font-size: 30px;
-    
+    text-align: center;
+    color: #04202C;
+    font-size: 40px
 }
-.hotNewsBox li{
+
+.bodyBox li{
     padding: 10px;
     font-size: 20px;
     list-style: disc;
     margin-left: 35px;
 
 }
-li a{
-    text-decoration: none;
-}
-.hotNewsBox a{
+
+.bodyBox a{
     color: black;
 }
 
-.hotNewsBox p{
+.bodyBox p{
+    padding: 5px;
     color: #5B7065;
 }
 
-.realEstateBox h2{
+.bodyBox h2{
     background-color: #04202C;
     color: white;
     padding: 10px;
     font-size: 30px;
 }
-.realEstateBox li{
+.bodyBox li{
     padding: 10px;
     font-size: 20px;
     color: black;
     margin-left: 45px;
-}
-.article-count{
-    padding: 5px;
-}
-
-.realEstateBox a{
-    color: black;
-}
-.realEstateBox p{
-    color: #5B7065;
-}
-.realEstateBox li{
     list-style: disc;
-    margin-left: 35px;
 }
 
+/* menu box */
 .menuBox{
     background-color: black;
 }
+
 .menuBox li{
     padding: 2px;
     color: #cfcfcf;
@@ -127,6 +115,8 @@ li a{
     color: #cfcfcf;
 }
 
+
+/* table */
 .table-box{
     width: 800px;
     margin: 0px auto;
