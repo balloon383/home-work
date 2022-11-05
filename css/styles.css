@@ -1,0 +1,216 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+body {
+	background-color: rgb(108, 135, 153);
+	margin: 20px;
+  }
+
+  
+  li a {
+	text-decoration: none;
+  }
+  .generalBox {
+	background-color: #91a39a;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+  }
+  
+  /* body box */
+  .bodyBox h1 {
+	padding: 10px;
+	text-align: center;
+	color: #04202c;
+	font-size: 40px;
+  }
+  
+  .bodyBox li {
+	padding: 10px;
+	font-size: 20px;
+	list-style: disc;
+	margin-left: 35px;
+  }
+  
+  .bodyBox a {
+	color: black;
+  }
+  
+  .bodyBox p {
+	padding: 5px;
+	color: #5b7065;
+  }
+  
+  .bodyBox h2 {
+	background-color: #04202c;
+	color: white;
+	padding: 10px;
+	font-size: 30px;
+  }
+  .bodyBox li {
+	padding: 10px;
+	font-size: 20px;
+	color: black;
+	margin-left: 45px;
+	list-style: disc;
+  }
+  
+  /* menu box */
+  .menuBox {
+	background-color: black;
+  }
+  
+  .menuBox li {
+	padding: 2px;
+	color: #cfcfcf;
+	list-style: disc;
+	margin-left: 25px;
+  }
+  
+  .menuBox a {
+	color: #cfcfcf;
+  }
+  
+  /* table */
+  .table-box {
+	width: 800px;
+	margin: 0px auto;
+  }
+  .music-table {
+	border: 2px solid;
+	margin: 0px auto;
+  }
+  .music-table .my-music {
+	text-align: center;
+	background-color: red;
+  }
+  .music-table .first-tr {
+	text-align: center;
+	background-color: rgb(255, 0, 179);
+  }
+  
+  .music-table .td-genre {
+	width: 100px;
+	background-color: yellow;
+  }
+  .music-table .year-td {
+	width: 100px;
+  }
+  .music-table .third-tr {
+	width: 200px;
+  }
+  .music-table td {
+	border: 2px solid;
+  }
+  .music-table .other-td {
+	background-color: aquamarine;
+  }
+  .table-box {
+	margin-top: 30px;
+  }
+  
+  .table-box .move-forward-link, .mainPageLink {
+	text-align: center;
+	color: red;
+	margin-top: 15px;
+	text-decoration: none;
+  }
+  
+
+
+
+.mainTable {
+    border: 2px solid;
+    text-align: center;
+}
+
+.tableBody td {
+    border: 2px solid;
+    width: 100px;
+    height: 100px;
+}
+
+td {
+    background-color: green;
+}
+
+.tableBody .yellow {
+    background-color: yellow;
+}
+
+.tableBody .orange {
+    background-color: orange;
+}
+
+.tableBody .red {
+    background-color: red;
+}
+
+/* Galery */
+
+.galeryBox{
+	text-align: center;
+
+}
+.galeryBox div{
+	margin: 25px;
+	border: 1px solid;
+	padding: 15px;
+}
+.galeryBox h1{
+	font-size: 50px;
+}
+.galeryBox h2{
+	font-size: 35px;
+	color: #04202c;
+}
+.galeryBox p{
+	font-size: 20px;
+	color: #5b7065;
+}
